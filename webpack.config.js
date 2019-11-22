@@ -110,7 +110,7 @@ module.exports = {
     })
   ],
   devServer: {
-    contentBase: '.public',
+    contentBase: './dist',
     hot: true
   }
 }
